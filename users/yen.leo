@@ -49,138 +49,46 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20171109012023.1" a="E"><vh>W1-W3</vh>
-<v t="leo.20171109012058.1" a="E"><vh>w1</vh>
-<v t="leo.20171109012138.1"><vh>內容</vh></v>
+<v t="leo.20180108012249.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180108012249.2" a="E"><vh>W10</vh>
+<v t="leo.20180108012249.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20171109012301.1" a="E"><vh>w2</vh>
-<v t="leo.20171109012301.2"><vh>內容</vh></v>
+<v t="leo.20180108012249.4" a="E"><vh>W10-1</vh>
+<v t="leo.20180108012249.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20171109050123.1" a="E"><vh>w2圖片-1</vh>
-<v t="leo.20171109050142.1"><vh>圖片</vh></v>
+<v t="leo.20180108012249.6" a="E"><vh>W10-2</vh>
+<v t="leo.20180108012249.7"><vh>內容</vh></v>
 </v>
-<v t="leo.20171109051023.1"><vh>w2圖片-2</vh>
-<v t="leo.20171109051023.2"><vh>圖片</vh></v>
+<v t="leo.20180108012249.8" a="E"><vh>W11</vh>
+<v t="leo.20180108012249.9"><vh>內容</vh></v>
 </v>
-<v t="leo.20171109022245.1"><vh>w3</vh>
-<v t="leo.20171109022245.2"><vh>內容</vh></v>
+<v t="leo.20180108012249.10" a="E"><vh>W11-1</vh>
+<v t="leo.20180108012249.11"><vh>內容</vh></v>
 </v>
-<v t="leo.20171109051237.1" a="E"><vh>w3語法</vh>
-<v t="leo.20171109051237.2"><vh>內容</vh></v>
-</v>
-</v>
-<v t="leo.20171109012023.2" a="E"><vh>W4-W6</vh>
-<v t="leo.20171109012059.1" a="E"><vh>w4</vh>
-<v t="leo.20171109012140.1"><vh>內容</vh></v>
-</v>
-<v t="leo.20171109052041.1" a="E"><vh>w4圖片</vh>
-<v t="leo.20171109052041.2"><vh>圖片</vh></v>
-</v>
-<v t="leo.20171109042015.1" a="E"><vh>w5</vh>
-<v t="leo.20171109042015.2"><vh>內容</vh></v>
-</v>
-<v t="leo.20171109052524.1" a="E"><vh>w5圖片</vh>
-<v t="leo.20171109052524.2"><vh>圖片</vh></v>
-</v>
-<v t="leo.20171109042016.1"><vh>w6</vh>
-<v t="leo.20171109042016.2"><vh>內容</vh></v>
-</v>
-<v t="leo.20171109052746.1" a="E"><vh>w6圖片</vh>
-<v t="leo.20171109052746.2"><vh>圖片</vh></v>
+<v t="leo.20180108012249.12"><vh>W12</vh>
+<v t="leo.20180108012249.13"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171109012023.3" a="E"><vh>W7-W9</vh>
-<v t="leo.20171109012101.1" a="E"><vh>w7</vh>
-<v t="leo.20171109012143.1"><vh>內容</vh></v>
+<v t="leo.20180108012254.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180108012254.2" a="E"><vh>W13</vh>
+<v t="leo.20180108012254.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20171109042625.1" a="E"><vh>w8</vh>
-<v t="leo.20171109042625.2"><vh>內容</vh></v>
-</v>
-<v t="leo.20171109042623.1"><vh>w9</vh>
-<v t="leo.20171109042623.2"><vh>內容</vh></v>
-</v>
-<v t="leo.20171109043856.1" a="E"><vh>順序</vh>
-<v t="leo.20171109043856.2"><vh>內容</vh></v>
-</v>
-<v t="leo.20171109043309.1"><vh>成績</vh>
-<v t="leo.20171109043309.2"><vh>內容</vh></v>
-</v>
-<v t="leo.20171109045759.1" a="E"><vh>END</vh>
-<v t="leo.20171109045759.2"><vh>內容</vh></v>
+<v t="leo.20180108012254.4" a="E"><vh>W15</vh>
+<v t="leo.20180108012254.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171109012024.1" a="E"><vh>W10-W12</vh>
-<v t="leo.20171109012102.1" a="E"><vh>w10</vh>
-<v t="leo.20171109012157.1"><vh>內容</vh></v>
+<v t="leo.20180108012241.1" a="E"><vh>W16-W18</vh>
+<v t="leo.20180108012241.2" a="E"><vh>W16-W18</vh>
+<v t="leo.20180108012241.3"><vh>內容</vh></v>
 </v>
-<v t="leo.20171109042708.1" a="E"><vh>w11</vh>
-<v t="leo.20171109042708.2"><vh>內容</vh></v>
+<v t="leo.20180108012241.4" a="E"><vh>W16-W18-1</vh>
+<v t="leo.20180108012241.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20171109042711.1" a="E"><vh>w12</vh>
-<v t="leo.20171109042711.2"><vh>內容</vh></v>
-</v>
-</v>
-<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
-<v t="yen.20170108171733.17"><vh>準備與鼓勵</vh></v>
-</v>
-<v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
-<v t="leo.20170911090822.2"><vh>Win 64 位元專用</vh></v>
-</v>
-<v t="leo.20170911091459.1"><vh>Python 與程式設計</vh>
-<v t="leo.20170911091508.1"><vh>Python 與 C/C++</vh></v>
-<v t="leo.20170911091622.1" a="E"><vh>如何學好 Python3</vh>
-<v t="leo.20170911091508.2"><vh>程式學習順序</vh></v>
-<v t="leo.20170911091622.2"><vh>Python3 學習</vh></v>
-</v>
-<v t="leo.20170911100148.1"><vh>如何學習 CAD</vh>
-<v t="leo.20170911100148.2"><vh>CAD 學習</vh></v>
-</v>
-<v t="leo.20170911100657.1" a="E"><vh>MCADP 實習</vh>
-<v t="leo.20170911100657.2"><vh>電腦輔助設計實習</vh></v>
-</v>
-</v>
-<v t="leo.20170911093601.1"><vh>W1 練習</vh>
-<v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
-<v t="leo.20170911093601.3"><vh>Python 3.6 程式環境</vh></v>
-</v>
-<v t="leo.20170911093601.4"><vh>練習 Fossil SCM</vh>
-<v t="leo.20170911093601.5"><vh>了解 Fossil SCM</vh></v>
-</v>
-<v t="leo.20170913103008.1" a="E"><vh>Fossil SCM 功能說明</vh>
-<v t="leo.20170913103008.2"><vh>Fossil SCM 功能</vh></v>
-</v>
-<v t="leo.20170913103534.1" a="E"><vh>採用 SCM 的目標 1/2</vh>
-<v t="leo.20170913103534.2"><vh>SCM 的目標 1/2</vh></v>
-</v>
-<v t="leo.20170913103707.1" a="E"><vh>採用 SCM 的目標 2/2</vh>
-<v t="leo.20170913103707.2"><vh>SCM 的目標 2/2</vh></v>
-</v>
-<v t="leo.20170913104957.1" a="E"><vh>總結 SCM 的目標</vh>
-<v t="leo.20170913104957.2"><vh>SCM 的整體目標</vh></v>
-</v>
-</v>
-<v t="leo.20170911095149.1"><vh>課程評分</vh>
-<v t="leo.20170911095149.2" a="E"><vh>課程評分</vh>
-<v t="leo.20170911095149.3"><vh>如何評分</vh></v>
-</v>
-<v t="leo.20170911095149.4" a="E"><vh>課程實習分組</vh>
-<v t="leo.20170911095149.5"><vh>如何分組</vh></v>
-</v>
-</v>
-<v t="leo.20170911090052.1"><vh>快捷鍵</vh>
-<v t="leo.20170911090052.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="yen.20170108171733.64" a="E"><vh>各式內容引用範例</vh>
-<v t="yen.20170108171733.65"><vh>導入數學符號與方程式</vh></v>
-<v t="yen.20170108171733.67" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170108171733.66"><vh>LaTeX 格式方程式</vh></v>
-<v t="yen.20170108171733.68"><vh>引用程式碼</vh></v>
-</v>
-<v t="yen.20170108171733.69"><vh>導入影片</vh>
-<v t="yen.20170108171733.70"><vh>iframe 導入影片</vh></v>
+<v t="leo.20180108012241.6" a="E"><vh>W16-W18-2</vh>
+<v t="leo.20180108012241.7"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -212,222 +120,6 @@
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20170911090052.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911090052.2"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20170911090822.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911090822.2"># 隨身碟內容介紹
-
-* Windows 64 位元電腦專用
-* 可以在電腦間遊走, 擁有統一的近端操作環境
-* USB 碟遊走各電腦, 要小心散播病毒
-* 玩線上遊戲, 但不要玩到 USB 中毒
-* 打開 c:\mde\python2017fall_36 目錄, 從 start.bat 開始
-* Python, C/C++, Fossil SCM, Git, Solvespace, V-rep, Blender
-* 夠您玩兩年了
-
-</t>
-<t tx="leo.20170911091459.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911091508.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911091508.2"># 計算機程式學習順序
-
-* 先學 Python3, 兼學 C/C++
-* 了解 WWW 網頁與伺服器架構, 學 Javascript
-* 若想再寫手機程式或大型程式, 學 Java
-* 其他, 例如: Go, Ruby, Scala, R, Matlab, Mathematica 也都不錯
-* 程式就是特定格式的流程,  任何人都必須接觸了解運用
-* 計算機程式是與電腦及網路溝通的重要工具, 工程師必備
-* 不要再問: 我到底需不需要精熟計算機程式與網路
-
-</t>
-<t tx="leo.20170911091622.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911091622.2"># 如何學好 Python3
-
-* 上課專心聽, 用心動手練習, 發揮自學力、執行力與想像力
-* 工程師可以利用程式, 以協同模式, 預先模擬設計許多產品
-* 先學會如何使用 Fossil SCM, 再了解 Pelican 與 Reveal.js
-* 利用 Leo Editor 編輯投影片與網誌, 保留學習心得
-* 不斷寫, 再不斷寫, 電腦與網路就會是您的好夥伴
-
-</t>
-<t tx="leo.20170911093601.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911093601.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911093601.3"># 開啟隨身系統
-
-* 點擊 c:\mde\python2017fall_36 目錄中的 start.bat 開啟
-* 產生與 c:\mde\python2017fall_36\data 對應的 y:\ 
-* 產生專屬的 Dos 指令區與 SciTE 編輯器
-* 用瀏覽器, 以 pyqt5 example calculator 關鍵字找 calculator.py
-* 將 calculator.py 內容放入 SciTE, 在 c:\tmp 存為 .py 後按 F5 
-* 接著用 ansi c hello word 關鍵字找 .c 程式, 放入 SciTE, 存為 .c
-* 存檔後, 按下 F5 執行
-* SciTE 可以採解譯模式, 執行 Python3 與 ANSI C 程式
-
-</t>
-<t tx="leo.20170911093601.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911093601.5"># 了解 Fossil SCM
-
-* 利用 Fossil SCM 關鍵字查詢, 十分鐘後, 請回答下列問題
-* 何謂 SCM? 何謂 Fossil SCM?
-* 如何使用 Fossil SCM?
-* 用與不用 SCM, 有沒有差別?
-* 機械設計工程師為何需要使用 Fossil SCM?
-
-
-</t>
-<t tx="leo.20170911095149.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911095149.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911095149.3"># 課程如何評分
-
-* 出席: 20% (if 全勤: 提問與答題內容*平時表現)
-* 平時表現: 30% (隨身碟與倉儲內容 + 每堂筆記內容)
-* 驗收考試: 30% (三階段現場錄製操作與心得影片-註記時間與錄製人員學號)
-* 驗收簡報: 20% (驗收週各組簡報, 各學員簡報, 根據驗收考試與簡報內容自評與互評)
-
-</t>
-<t tx="leo.20170911095149.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911095149.5"># 依照學號與座位分組
-
-* 分組不是找同學幫您做作業, 應付專題實習
-* 分組是為了學習, 如何與豬隊友進行協同
-* 全班依學號入座, 每六人一小組, 每三小組為一大組
-* 每班提供兩台廣域伺服器, 配合與個人的隨身碟存放資料
-* 每一個階段的練習, 都要拍成練習影片, 上傳 Youtube 與 Vimeo
-* 影片標題必須冠上校名、系名、課程名與學號
-
-
-</t>
-<t tx="leo.20170911100148.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911100148.2"># 如何學習 CAD
-
-* CAD 為 Computer Aided Design
-* 尤其是 Mechanical Computer Aided Design
-* 2D/3D 繪圖是電腦輔助設計的表達方式之一
-* 口語、文字、 2D、 3D、 數學與實作表達, 都很重要
-* 2D/3D 繪圖採用 Solvespace 與 Onshape
-* 熟悉近端與雲端 CAD 後, 可以再用其他  MCAD 工具
-* 其他工具包括: SolidWorks, Inventor, Creo Parametric 等
-
-</t>
-<t tx="leo.20170911100657.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911100657.2"># 電腦輔助設計實習
-
-* 利用近端與雲端工具繪製 Nutcraker 曲柄滑塊機構
-* 在近端與雲端模擬機構運動, 進行防止干涉運算設計
-* 了解如何將 Nutcracker 零件轉入 V-rep 進行模擬
-* 利用 Python 程式跨網路操控 V-rep 中的 Nutcracker
-* 重複上述步驟, 各組利用連桿與滑塊機構設計循環運動系統
-* 利用  TinkerCAD了解 Arduino 實體與網際馬達控制
-* 各小組完成一項機電資循環運動系統設計與模擬
-* 各大組將評比後的最終設計, 進行實體列印組裝與展示
-
-</t>
 <t tx="leo.20170912145121.1"></t>
 <t tx="leo.20170912145133.1"></t>
 <t tx="leo.20170912145144.1"></t>
@@ -442,81 +134,6 @@ g.es("admin pelican Github 執行完畢")
 
 </t>
 <t tx="leo.20170912210747.1"></t>
-<t tx="leo.20170913103008.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170913103008.2"># SCM 功能
-
-* SCM 是軟體組成元件與狀態的管理
-* 關心要納入那些元件? 如何納入? 元件間如何組合運作?
-* 關心目前的狀態如何? 功能是否滿足需求?
-* 成員是否團隊合作? 是否創造出協同效益?
-* 當狀態產生問題或缺陷, 如何追蹤? 如何改善?
-* 成員是否依照規劃, 提供完整的文件、規格與手冊?
-
-
-</t>
-<t tx="leo.20170913103534.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170913103534.2"># SCM 目標 (1/2)
-
-* 辨識 (identification) - 需求、流程與環境的辨識
-* 控制 (control) - 批准或拒絕內容的變更
-* 會計 (accounting) -  完整保存每個階段所進行的變更
-* 審核 (auditing) - 確認建立完整的文件, 需求, 架構, 規範與使用者手冊
-* 構建管理 (build) - 管理過程中所需的各類工具
-
-
-
-</t>
-<t tx="leo.20170913103707.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170913103707.2"># SCM 目標 (2/2)
-
-* 流程管理 (process) - 確認過程融入組織的發展要求
-* 環境管理 (environment) - 提供託管內容所需的軟體與硬體
-* 團隊合作 (teamwork) - 促進團隊互動協同
-* 缺陷追踪 (defect tracking) - 可追溯每個缺陷的源頭
-
-
-</t>
-<t tx="leo.20170913104957.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170913104957.2"># SCM 的目標
-
-* 以團隊協同合作模式
-* 透過詳細的履歷 (清楚註記時間、變更與建立者)
-* 完整呈現並管理各階段內容的組成元件與狀態
-* 達到資源高效運用, 最佳化軟體&lt;strike&gt;機械設計&lt;/strike&gt;開發過程
-
-</t>
 <t tx="leo.20171003222155.1">@language md
 Title: 2017 Fall CP 第五週
 Date: 2017-10-03 9:00
@@ -1048,218 +665,155 @@ turtle._Screen().end()
 doc['ex4'].bind('click',ex4)
 &lt;/script&gt;&lt;a id="ex4"&gt;ex4&lt;/a&gt;-turtle 網際繪圖
 </t>
-<t tx="leo.20171109012023.1">&lt;section&gt;
+<t tx="leo.20180108012241.1">&lt;section&gt;
     @others
 &lt;/section&gt;</t>
-<t tx="leo.20171109012023.2">&lt;section&gt;
-    @others
-&lt;/section&gt;</t>
-<t tx="leo.20171109012023.3">&lt;section&gt;
-    @others
-&lt;/section&gt;</t>
-<t tx="leo.20171109012024.1">&lt;section&gt;
-    @others
-&lt;/section&gt;</t>
-<t tx="leo.20171109012058.1">&lt;section data-markdown&gt;
+<t tx="leo.20180108012241.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171109012059.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109012101.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109012102.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109012138.1">##W1課程開始
-* 準備筆記本、隨身碟與耳機
-* 充分了解隨身系統的啟動關機與使用
-* 先在近端運作, 然後同桌電腦, 最後區網與雲端
-* 了解機械設計本質, 六種表達與如何培養創造力
-* 工程師有那六種表達方式?
-* Answer:口語,文字,2D,3D,數學理論,實作表達
-* 創造力的三個基本要素
-* Answer:自學力,執行力,想像力 
+<t tx="leo.20180108012241.3">###W16-W18
 
+* 藉由小組模式共同編寫小組計算機介面之程式
+
+* ag8計算機程式任務分配
+
+* Group member
+
+* 40623105 加減
+
+* 40623104 其他
+
+* 40623113 等號
+
+* 40623114 小數點
+
+* 40623115 乘除  &lt;-----我
 </t>
-<t tx="leo.20171109012140.1">##W4
-###課程介紹
-* 利用 Python3 與 PyQt5 建立一個簡單的計算器
-* 會使用基本的 Python3 程式語法
-* 了解 Python3 物件導向與視窗事件驅動程式的基本概念</t>
-<t tx="leo.20171109012143.1">##W7驗收週
-
-* 以 ShareX 拍攝與課程相關的操作影片.
-* 內容:w1-w6所教導的步驟
-* 練習與 PyQt5 計算機程式有關的語法與操作步驟.</t>
-<t tx="leo.20171109012157.1">##W10
-###課程介紹</t>
-<t tx="leo.20171109012301.1">&lt;section data-markdown&gt;
+<t tx="leo.20180108012241.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171109012301.2">##W2
-###課程介紹
-* 建立 Fossil SCM 伺服器
-* 建立 Fossil SCM 倉儲
-* 利用 Wiki 紀錄學習資料
-* 將網誌與簡報檔案放入 Files 資料區
+<t tx="leo.20180108012241.5">###繪製計算機介面
 
+&lt;img src="https://cpa.kmol.info/40623115/raw/61d4207437b5cbd9f1b8d0ca8376c7f8cbb51ba46bb7ff0ac362b8c0c9a7f97e?m=image/png"width="400" height="300"&gt;</t>
+<t tx="leo.20180108012241.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180108012241.7">###自評成績
+
+* 出席：20%
+* 平時表現：20%
+* 驗收考試：25%
+* 驗收簡報：15%
+* 總分：80分</t>
+<t tx="leo.20180108012249.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180108012249.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180108012249.11">當近端 Git client 以內定帶出登入視窗後, 所輸入的認證資料將會存在 Windows 認證的一般用戶區, 之後使用者以相同身分進行推送時, 無需再次輸入遠端倉儲的認證資料.
+
+&lt;img src="https://cpa.kmol.info/40623115/raw/1bff60d7d8262f7fc9b17f56591f565bd6c8b57631e8dbdda5b4d9e05b720389?m=image/png"width="350" height="200"&gt;
+&lt;img src="https://cpa.kmol.info/40623115/raw/a6a852c2b8d348b125aaf16d083b289a00420e45848d160990db37ad7c3d20de?m=image/png"width="350" height="200"&gt;
+&lt;img src="https://cpa.kmol.info/40623115/raw/650562ba7c0a27155a15e7d3b3330a665c7e58dd6ae18f745f91d12adeeb4290?m=image/png"width="350" height="200"&gt;</t>
+<t tx="leo.20180108012249.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180108012249.13">###W12課程
+
+說明如何開始執行 PyQt5 計算機程式的期末專案.
+
+了解如何設定 git config 中的 user.name, user.email 與 http.proxy, 以便在 git commit 與 push 時使用.
+
+接著從示範專案中複製 Dialog.ui 與 run.py, 然後建立一個新專案, 將此兩個檔案納入, 最後將 .ui 編譯, 並且建立對應的 Dialog.py, 用來存放之後的事件程式邏輯.</t>
+<t tx="leo.20180108012249.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180108012249.3">###W10課程
+
+如何客製化可攜程式系統?
+ 
+依照所使用的可攜系統所在的 python.exe 位置, 修改 start.bat, 自動開啟 Leo Editor, 並且在 launchLeo.py 中的 run() 方法, 加入 fileName 變數, 指定要求開啟 Leo Editor 時, 自動開啟所要編輯的 .leo 專案檔.
+
+&lt;img src="https://cpa.kmol.info/40623115/raw/ac5402187fbd5359aad6e54f06f835ffb7fdea5b56edd1c2daaf223e866e2248?m=image/png"width="600" height="300"&gt;
 </t>
-<t tx="leo.20171109022245.1">&lt;section data-markdown&gt;
+<t tx="leo.20180108012249.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171109022245.2">##W3
-###課程介紹
-* 如何使用CMD將檔案推送至倉儲
-* 學習Fossil 語法</t>
-<t tx="leo.20171109042015.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109042015.2">##W5
-###課程介紹
-* 利用eric6學習如何利用 PyQt5 建立計算器視窗程式,
-* 利用網誌展示程式碼</t>
-<t tx="leo.20171109042016.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109042016.2">##W6
-###課程介紹
-* 使用 eric6建立 PyQt5 視窗程式,並轉為 .py 程式
-* 下載 Lean Python 電子書與範例程式配合學習.</t>
-<t tx="leo.20171109042623.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109042623.2">##W9期中考週
-* 製作期中簡報</t>
-<t tx="leo.20171109042625.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109042625.2">##W8驗收週
+<t tx="leo.20180108012249.5">按下Delete鍵來修改內容
 
-## [W8課程網誌](https://cpa.kmol.info/40623115/doc/trunk/blog/40623115-w8.html)
+&lt;img src="https://cpa.kmol.info/40623115/raw/cee6ea38eb9cd2c752b09996aa793b9d9d9907fceeb1e0a9167b59b12b8c5ca8?m=image/png"width="300" height="500"&gt;
+&lt;img src="https://cpa.kmol.info/40623115/raw/63bcde9fcb68e98e638953e43292b7775e5435b38e869832ba52767adddabe81?m=image/png"width="300" height="500"&gt;</t>
+<t tx="leo.20180108012249.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180108012249.7">下載 Dia 與 Gimp 可攜程式, 用來編輯 2D 表達用的圖檔
 
-</t>
-<t tx="leo.20171109042708.1">&lt;section data-markdown&gt;
+&lt;img src="https://cpa.kmol.info/40623115/raw/846e7a158fac5594ef14e8b5ca80bd4f6e7375fb5cbd0c13689b53496259c631?m=image/png"width="400" height="300"&gt;
+&lt;img src="https://cpa.kmol.info/40623115/raw/e7945bad0d64884dc041a34a72d4f44357d1b62c98f04984ceb852d82c0dd58e?m=image/png"width="400" height="300"&gt;</t>
+<t tx="leo.20180108012249.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171109042708.2">##W11
-###課程介紹</t>
-<t tx="leo.20171109042711.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109042711.2">##W12
-###課程介紹</t>
-<t tx="leo.20171109043309.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109043309.2">##期中自評成績
-出席(20%)：20分
+<t tx="leo.20180108012249.9">###W11課程
 
-平時表現(30%)：25分
+* 說明如何在 Github 建立倉儲, 如何利用 gh-pages 分支伺服 index.html
 
-驗收考試(30%)：15分
+* 指令:
 
-驗收簡報(20%)：10分
+* git add . 新增
 
-總分：70分</t>
-<t tx="leo.20171109043856.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109043856.2">#課程順序
+* git commit -m "提交訊息"    提交
 
-* w1-w3為導入週
-* 學習FOSSIL指令的基礎
-* w4-w6
-* 學會Python與PyQt5的程式，並利用網誌展示程式碼
-* w7-w9為驗收週
-* 不斷複習w1-w6所教導的步驟。</t>
-<t tx="leo.20171109045759.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109045759.2">#THE END
+* git push 推送
 
-###THANDS EVERYONE</t>
-<t tx="leo.20171109050123.1">&lt;section data-markdown&gt;
+* git config --global user.email "you@example.com"
+
+* git config --global user.name "your name"
+
+* 以此兩行指令輸入使用者資料</t>
+<t tx="leo.20180108012254.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20180108012254.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171109050142.1">###利用 Wiki 紀錄學習資料
-&lt;img src="https://cpa.kmol.info/40623125/raw/47573d0dcf89613b284979cbc4255a64fb38eda9b2f8b3e695939cedf951c326?m=image/png" width="600" height="300"&gt;</t>
-<t tx="leo.20171109051023.1">&lt;section data-markdown&gt;
+<t tx="leo.20180108012254.3">###W13課程
+
+說明如何透過概念、知識、執行、自學與想像等欄位的標示, 整理課程學習歷程.
+
+&lt;img src="https://cpa.kmol.info/40623115/raw/f40f07e91155fe91bc7a94f3d0e83804e2c0df527fae74f2b6d81af5a79fc1c8?m=image/png"width="500" height="200"&gt;</t>
+<t tx="leo.20180108012254.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171109051023.2">###將檔案推送至FOSSIL倉儲
-&lt;img src="https://cpa.kmol.info/40623125/raw/800061302c1f70bf43feb206fa525fb698e915929758dc5c2469d4bb518b6741?m=image/png" width="600" height="300"&gt;</t>
-<t tx="leo.20171109051237.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109051237.2">##Fossil 語法
-* add新增  
-* open開啟 
-* update更新
-* clone克隆
-* status檢查
-* commit提交 
-* push推送 
-* delete刪除
-###(前面都要加 fossil)</t>
-<t tx="leo.20171109052041.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109052041.2">###Python程式語法
-&lt;img src="https://cpa.kmol.info/40623115/raw/71e267d35e8213ee321678ec10a183b011d0373912fa36f270ab5da6ee7e5cd4?m=image/png" width="600" height="300"&gt;</t>
-<t tx="leo.20171109052524.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109052524.2">###PyQt5 建立計算器視窗程式
-&lt;img src="https://cpa.kmol.info/40623115/raw/524838018d81f3515b0c1248824d6f2ac09e74f06b52aa825ec86819e45a3628?m=image/png" width="600" height="300"&gt;</t>
-<t tx="leo.20171109052746.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171109052746.2">###PyQt5 建立計算器視窗程式
-&lt;img src="https://cpa.kmol.info/40623115/raw/b05038e7b87bbd9f3211e93f84e9899b7b10755131bdd84c6f06741ded1876ee?m=image/png" width="600" height="300"&gt;</t>
+<t tx="leo.20180108012254.5">###W15課程
+
+說明如何利用 Pandoc 與 MikTeX 協同編寫期末報告.
+
+下載Python2017fall_36-2.7z
+
+&lt;img src="https://cpa.kmol.info/40623115/raw/7122a8ce3bbcb2e19b2cf78a2e250bb801a896f3e32bacbff0ac6983069b8b9d?m=image/png"width="450" height="450"&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1447,25 +1001,6 @@ Fossil倉儲 [40623115](https://cpa.kmol.info/40623115/index)
 
 
 </t>
-<t tx="yen.20170108171733.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170108171733.17"># W1-W3
-
-* 準備筆記本、隨身碟與耳機
-* 充分了解隨身系統的啟動關機與使用
-* 先在近端運作, 然後同桌電腦, 最後區網與雲端
-* 了解機械設計本質, 六種表達與如何培養創造力
-* 要怎麼收穫, 就那麼栽, 沒有捷徑, 真的沒有捷徑
-* 每天紀錄, 自己如何過完人生中這個寶貴的一天
-
-</t>
 <t tx="yen.20170108171733.2">@language python
 import os
 #os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
@@ -1475,81 +1010,6 @@ g.es("admin pelican 近端執行完畢")
 
 </t>
 <t tx="yen.20170108171733.5"></t>
-<t tx="yen.20170108171733.64">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170108171733.65">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170108171733.66"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170108171733.67">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170108171733.68">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170108171733.69">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170108171733.70">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170108171733.71"></t>
 <t tx="yen.20170108171733.8">@language xml
 @tabwidth -4
